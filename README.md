@@ -11,5 +11,6 @@ A Flappy Bird Clone game.
 3. Compile `flappy_bird.py`
 
 # Assets 
-All assets were obtained from https://megacrash.itch.io/flappy-bird-assets
+All assets were obtained from 
+- https://megacrash.itch.io/flappy-bird-assets
 
