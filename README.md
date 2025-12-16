@@ -5,7 +5,7 @@ A Flappy Bird Clone game.
 - `Python`
 - `Pygame`
 
-## Installation`
+## Installation
 1. Clone the repository
 2. Install the Pygame library by using `py -m pip install pygame`
 3. Compile `flappy_bird.py`
