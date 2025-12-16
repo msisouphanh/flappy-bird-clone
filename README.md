@@ -8,9 +8,8 @@ A Flappy Bird Clone game.
 ## Installation`
 1. Clone the repository
 2. Install the Pygame library by using `py -m pip install pygame`
-3. Compile `fappy_bird.py`
+3. Compile `flappy_bird.py`
 
 # Assets 
-All assets were obtained from 
-- https://megacrash.itch.io/flappy-bird-assets
+All assets were obtained from https://megacrash.itch.io/flappy-bird-assets
 
