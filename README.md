@@ -1,5 +1,6 @@
 ## Flappy Bird Clone
 A Flappy Bird Clone game.
+![Alt text](flappy-bird-clone.png)
 
 ## Technologies
 - `Python`
