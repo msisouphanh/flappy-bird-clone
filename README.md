@@ -1,6 +1,6 @@
 ## Flappy Bird Clone
 A Flappy Bird Clone game.
-![Image of the flappy bird game](flappy-bird-clone.jgg)
+![Image of the flappy bird game](flappy-bird-clone.jpg)
 
 ## Technologies
 - `Python`
