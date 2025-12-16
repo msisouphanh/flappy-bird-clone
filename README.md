@@ -1,8 +1,5 @@
 ## Flappy Bird Clone
 A Flappy Bird Clone game.
-<br>
-<br>
-![Image of the flappy bird game](flappy-bird-clone.jpg)
 
 ## Technologies
 - `Python`
@@ -16,4 +13,8 @@ A Flappy Bird Clone game.
 # Assets 
 All assets were obtained from 
 - https://megacrash.itch.io/flappy-bird-assets
+<br>
+<br>
+
+![Image of the flappy bird game](flappy-bird-clone.jpg)
 
