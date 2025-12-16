@@ -1,6 +1,7 @@
 ## Flappy Bird Clone
 A Flappy Bird Clone game.
 <br>
+<br>
 ![Image of the flappy bird game](flappy-bird-clone.jpg)
 
 ## Technologies
